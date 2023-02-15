@@ -154,11 +154,12 @@ insert into cliente values (3, 'Jowy', 'Castellano', '928364940', 'calle colombi
 insert into cliente values (4, 'Ismael', 'Cabrera', '987788872', 'calle paraguaya',4);
 insert into cliente values (5, 'Anabel', 'Silva', '987785557', 'calle jinamar',5);
 
-insert into monitores values (1, 'Azael', '787654567', '1000');
-insert into monitores values (2, 'Ricardo', '787654467', '1100');
-insert into monitores values (3, 'Juan Jose', '787674567', '1200');
-insert into monitores values (4, 'Carmelo', '787694567', '1300');
-insert into monitores values (5, 'Elisa', '787654560', '1400');
+insert into monitores values (1, 'Azael', '427654562', '1000');
+insert into monitores values (2, 'Ricardo', '587653461', '1100');
+insert into monitores values (3, 'Juan Jose', '887745689', '1200');
+insert into monitores values (4, 'Carmelo', '139694567', '1300');
+insert into monitores values (5, 'Lisa', '745654560', '1400');
+insert into monitores values (6, 'Ayaya', '123456660', '1900') 
 
 insert into rutinas values (1, 'principiante',1);
 insert into rutinas values (2, 'intermedio',2);
