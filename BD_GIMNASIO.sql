@@ -103,7 +103,7 @@ alter table salas
 add constraint FK_id_gimnasio foreign key (id_gimnasio) references gimnasio (id_gimnasio);
 
 alter table gimnasio
-add constraint FK_id_presupuesto foreign key (id_presupuesto) references Presupuesto (id_presupuesto);
+add constraint FK_id_presupuesto foreign key (id_presupuesto) references presupuesto (id_presupuesto);
 
 alter table cliente
 add constraint foreign key (id_gimnasio) references gimnasio (id_gimnasio);
