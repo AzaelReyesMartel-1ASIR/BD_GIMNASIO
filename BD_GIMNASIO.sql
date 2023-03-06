@@ -159,7 +159,7 @@ insert into monitores values (2, 'Ricardo', '587653461', '1100');
 insert into monitores values (3, 'Juan Jose', '887745689', '1200');
 insert into monitores values (4, 'Carmelo', '139694567', '1300');
 insert into monitores values (5, 'Lisa', '745654560', '1400');
-insert into monitores values (6, 'Ayaya', '123456660', '1900') 
+insert into monitores values (6, 'Ayaya', '123456660', '1900'); 
 
 insert into rutinas values (1, 'principiante',1);
 insert into rutinas values (2, 'intermedio',2);
